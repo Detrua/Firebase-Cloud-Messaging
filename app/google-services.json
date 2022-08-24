@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233192071984",
+    "project_id": "fcmtutorial-b5812",
+    "storage_bucket": "fcmtutorial-b5812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233192071984:android:9a0b8b4ef5a25c5244def5",
+        "android_client_info": {
+          "package_name": "com.example.firebasecm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233192071984-bk6qgukvj2ugq62t0rfo1d3b27aukicr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxrs7U0e3c6jqlr0WJ3ctFExpa7Z0VnZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233192071984-bk6qgukvj2ugq62t0rfo1d3b27aukicr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
